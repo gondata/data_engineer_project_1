@@ -15,4 +15,4 @@ pip install pandas
 
 ## Usage
 
-To create the database, open the **`data_engineering_project_1.ipynb`** file in Jupyter Notebook and run the code. This will create tables for account countries, account data, and account series, and populate them with data.
+To create the database, open the **`wealth_account_project.ipynb`** file in Jupyter Notebook and run the code. This will create tables for account countries, account data, and account series, and populate them with data.
