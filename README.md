@@ -1,4 +1,4 @@
-# Wealth Account Project
+# Wealth Accounts Project
 
 This project is an example of data engineering, which involves creating a database to store and manipulate data. The goal of this project is to create a database with tables for account countries, account data, and account series.
 
