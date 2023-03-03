@@ -4,7 +4,7 @@ This project is an example of data engineering, which involves creating a databa
 
 ## Installation
 
-To run this project, you will need to have Python 3 installed. You will also need to install the **`psycopg2`** and pandas **`libraries`**. You can do this by running the following commands:
+To run this project, you will need to have Python 3 installed. You will also need to install the **`psycopg2`** and **`pandas`** libraries. You can do this by running the following commands:
 
 ```
 
